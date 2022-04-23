@@ -1,13 +1,12 @@
 Hi 👋 My name is Akash Dwivedi
 ==============================
 
-Sophomore (MCA) | Cloud & Front End Enthusiast | Blogger | Nethead
 
 * 🌍  I'm based in Ghaziabad, India
 * ✉️  You can contact me at [akashdwivedi02@gmail.com](mailto:akashdwivedi02@gmail.com)
 * 🧠  I'm learning Python and Linux
 * 🤝  I'm open to collaborating on Front End Projects
-* ⚡  Learning something new everyday
+* ⚡  Learning and building something new everyday
 
 ### Skills
 
