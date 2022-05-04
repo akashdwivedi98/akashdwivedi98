@@ -1,12 +1,12 @@
-Hi 👋 My name is Akash Dwivedi
+Hey there, I'm Akash. 👋 
 ==============================
 
-
-* 🌍  I'm based in Ghaziabad, India
+* 🙂  Pronouns: He/Him
+* 🌍  Ghaziabad, India
 * ✉️  You can contact me at [akashdwivedi02@gmail.com](mailto:akashdwivedi02@gmail.com)
-* 🧠  I'm learning Python and Linux
-* 🤝  I'm open to collaborating on Front End Projects
-* ⚡  Learning and building something new everyday
+* 🧠  Learning Python and Linux
+* 🤝  Open to collaborating on Front End Projects
+* ⚡  Approximate knowledge of many things
 
 ### Skills
 
