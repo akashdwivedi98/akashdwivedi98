@@ -1,7 +1,6 @@
 Hey there, I'm Akash. 👋 
 ==============================
 
-* 🙂  Pronouns: He/Him
 * 🌍  Ghaziabad, India
 * ✉️  You can contact me at [akashdwivedi02@gmail.com](mailto:akashdwivedi02@gmail.com)
 * 🧠  Learning Python and Linux
